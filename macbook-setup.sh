@@ -18,11 +18,8 @@ fi
 brew update
 
 PACKAGES=(
-    adobe-acrobat-reader
     anydesk
-    brave-browser
     cask
-    gimp
     git
     github
     google-chrome
@@ -32,12 +29,10 @@ PACKAGES=(
     mas
     readline
     rectangle
-    snappy
     speedtest-cli
     tcpdump
     terminal-notifier
     tldr
-    visual-studio-code
     vlc
 )
 echo "Installing packages..."
